@@ -26,9 +26,9 @@ Projeto desenvolvido para prática de conceitos intermediários de JavaScript, c
 Entre na pasta do projeto:
 
 ```bash
-Copiar
-Editar
+
 cd projeto-devburger
+
 Abra o arquivo index.html no seu navegador preferido (não precisa de servidor para este projeto).
 ```
 Como contribuir
